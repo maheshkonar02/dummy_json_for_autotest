@@ -1,62 +1,6 @@
-[
-  {
+{
     "category_name": "Antibiotic",
     "medicine_name": "Amoxicillin",
     "MRP": 120.00,
     "discount": 10
-  },
-  {
-    "category_name": "Painkiller",
-    "medicine_name": "Paracetamol",
-    "MRP": 50.00,
-    "discount": 5
-  },
-  {
-    "category_name": "Antacid",
-    "medicine_name": "Omeprazole",
-    "MRP": 75.00,
-    "discount": 8
-  },
-  {
-    "category_name": "Antihistamine",
-    "medicine_name": "Cetirizine",
-    "MRP": 30.00,
-    "discount": 3
-  },
-  {
-    "category_name": "Antiseptic",
-    "medicine_name": "Chlorhexidine",
-    "MRP": 45.00,
-    "discount": 6
-  },
-  {
-    "category_name": "Analgesic",
-    "medicine_name": "Ibuprofen",
-    "MRP": 100.00,
-    "discount": 12
-  },
-  {
-    "category_name": "Antifungal",
-    "medicine_name": "Fluconazole",
-    "MRP": 200.00,
-    "discount": 15
-  },
-  {
-    "category_name": "Antiviral",
-    "medicine_name": "Acyclovir",
-    "MRP": 150.00,
-    "discount": 10
-  },
-  {
-    "category_name": "Antidiabetic",
-    "medicine_name": "Metformin",
-    "MRP": 80.00,
-    "discount": 7
-  },
-  {
-    "category_name": "Antihypertensive",
-    "medicine_name": "Amlodipine",
-    "MRP": 60.00,
-    "discount": 5
   }
-]
